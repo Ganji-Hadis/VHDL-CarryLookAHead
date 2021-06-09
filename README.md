@@ -45,7 +45,7 @@
     end Behavioral;
 
 
-#Sub Madule:Full Adder
+#Sub Madule : Full Adder
 
     library IEEE;
     use IEEE.STD_LOGIC_1164.ALL;
